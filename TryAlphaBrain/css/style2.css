@@ -1,0 +1,222 @@
+/*INDEX*/
+body{margin: 0;font-family: arial;}
+a{text-decoration: none;}
+/*.logo{width: 270px;height: 50px;}*/
+.lfheader{float: left;width: 40%;}
+.rgheader{float: right;width: 40%;text-align: center;margin-top: 30px;}
+.header{float: left;width: 80%;padding: 15px 10%;background: #17242c;border-bottom: 5px solid #d1b16e;}
+.lingre{width: 100%; height: 2px;background-color: green;}
+.txtlogo{color: #FFF;margin-top: 1px;}
+.aget{width: auto;padding: 15px 30px;background: #00c366;margin-top: 5px;color: white;font-weight: bold;text-transform: uppercase;}
+.center{width: 100%;padding: 10% 0;}
+.lfcont{width: 50%;margin-left: 10%;float: left;}
+.imgtony{float: left;margin-top: 18px;margin-right: 10px;}
+.nameperson{float: left;}
+.ulbtns{float: left;width: 100%;background: #fff;padding: 0px;border-radius: 10px;margin: 20px 0 35px;border: 1px solid #17242c;}
+.iframevidyou{width: 100%;}
+.libtns{list-style: none;float: left;width: 30%;padding: 10px 8px;font-size: 16px;display: flex;justify-content: center;align-items: center;}
+.libtnsimg{padding: 0 5%;}
+.linelf{border-left: 1px solid #17242c;}
+.box{text-align: center;float: left;width: 100%;position: relative;border: 2px solid #00c366;border-radius: 10px;padding: 0 0 20px;}
+.box2{margin-top: 20px;text-align: center;float: left;width: 100%;position: relative;border: 3px solid #00c366;border-radius: 10px;padding: 20px 0;}
+.txtfea{position: relative; display: inline-block;vertical-align: middle;color: #08008d;font-size: 18px;background: #fff;margin-top: -12px;padding: 0 20px;text-transform: uppercase;font-weight: 700;}
+.clearall{clear: both;font-size: 1px;line-height: 1px;height: 1px;width: 100%;height: 18px;}
+.imgfea1,.imgfea2,.imgfea3,.imgfea4,.imgfea5{margin: 15px;}
+.txtget, .txtane{float: left;width: 100%;color: #17242c;font-weight: 800;font-family: 'Gilroy';padding: 25px 10px;border-top: 6px solid #00c366;border-bottom: 3px solid #00c366;margin-top: 28px;font-size: 25px;text-align: center;line-height: 35px;}
+.txtane{margin-bottom: 15px;}
+.txtstayp, .txtanep{text-align: justify;}
+.txtanep{text-align: center;}
+.txtstayp a{color: #07C;}
+a{color:#07C;}
+.imgcel{float: left;width: 100%;}
+super{vertical-align:super;font-size:12pt;}
+.txtonep{text-align: justify;line-height: 25px;font-size: 18px;}
+.txtonep a{color: #07C;}
+.alphabrain{float: left;width: 90%;border: 1px solid #c7c7c7;background: #86dbdf url(../img/s1-box-1-bg-new.jpg) no-repeat center top;padding: 5px 5% 22px 5%;border-radius: 3px;margin: 28px 0 10px;height: 175px;background-size: cover;}
+.alphabrain2{float: left;width: 68%;background: #17242c;border-radius: 5px;padding: 20px 25px 20px 190px;text-align: left;margin: 20px 0 40px;position: relative;height: 225px;}
+.alphabrainp{float: right;width: 70%;font-size: 20px;line-height: 28px;text-align: left;color: #ded7d2;font-weight: 700;}
+.alphabrainp2{float: left;width: 100%;font-size: 15px;line-height: 28px;text-align: left;color: #ded7d2;font-weight: 700;}
+.imgalphab{float: left;position: absolute;left: 25px;}
+.imgalphabbtn{float: right;position: relative;top: -120px;left: 15px;}
+.alphabraint{float: left;width: 100%;font-size: 32px;color: #FFF;font-weight: 800;font-family: 'Gilroy';margin-top: 0px;margin-bottom: 0px;}
+.abtn{float: right;display: inline-block;width: 50%;background: #00c366;color: #fff;font-size: 18px;font-weight: 700;text-transform: uppercase;padding: 15px 10px;text-align:center;}
+.abtn2{width: 80%;}
+.txtfin{float: left;width: 100%;font-size: 32px;color: #17242c;font-weight: 800;font-family: 'Gilroy';padding: 25px 10px;border-bottom: 3px solid #00c366;}
+.txtbrain{float: left;padding-top: 30px}
+.txtbrainp{float: left;width: 50%;line-height: 25px;}
+.imgbrain{float: right;width: 50%;}
+.txtbrainp2{float: left;text-align: justify;line-height: 25px;}
+.txtbrainp a,.txtbrainp2 a{color: #07C;}
+.imgsli{float: left;left: -70px;position: relative;}
+.ptxtbox2{line-height: 25px;text-align: justify;margin-right: 9px;padding-right: 15px;float: right;width: 59%;}
+.titbox2{font-size: 25px;font-weight: bold;text-align: justify;}
+.pnamebox2{text-align: left;font-size: 20px;}
+.howalp{float: left;width: 100%;font-size: 32px;color: #17242c;font-weight: 800;font-family: 'Gilroy';padding: 25px 10px;border-top: 6px solid #00c366;border-bottom: 3px solid #00c366;text-align: center;}
+.ptext{float: left;width: 100%;font-size: 18px;line-height: 28px;text-align: justify;}
+
+.boxflow{float: left;}
+.boximg,.boximg2{float: left;width: 20%;padding: 16px 0 25px 25px;border-bottom: 6px solid #00c366;border-radius: 2px;margin-top: -4px;}
+.boximg3{border-bottom: none;}
+.boxtxt{float: left;width: 75%;}
+.txtitem{font-size: 28px;font-weight: bold;}
+.txtitem2{line-height: 5px;}
+.txtanimo{width: 100%;padding: 0px 0 5px 2px;border-bottom: 2px solid #00c366;border-radius: 2px;margin-top: -4px;line-height: 27px;}
+.txtanimo2{border-bottom: none;}
+.txtallthr, .txtwhatal{float: left;}
+.txtcare{float: left;width: 100%;font-size: 32px;color: #17242c;font-weight: 800;font-family: 'Gilroy';padding: 25px 10px;border-top: 6px solid #00c366;border-bottom: 3px solid #00c366;text-align: center;}
+.whatalphabrain{font-size: 26px;}
+.txtalp{line-height: 30px;}
+.ulprod{width: 100%; text-align: center;float: left;}
+.liimg{float: left;list-style: none;padding: 15px 0px;width: 25%;text-align: center;}
+.nameprod{text-align: center;}
+.txtcel, .txtits{float: left;line-height: 28px;}
+.imgcombox2{position: absolute;top: -45px;left: 20px;}
+.txtjoe{float: left;margin-top: 24px;}
+.reviews{float: left;}
+.imgrev{float: left;}
+.prevnam{float: left;font-size: 16px;color: #4f5051;font-weight: bold;}
+.reviname{float: left;font-weight: bold;color: #6b6e74;margin: 0px 0px;}
+.revitxt{float: left;color: #6b6e74;text-align: left;}
+.revitxt2{float: left;color: #6b6e74;text-align: left;}
+.spday{float: right;font-size: 13px;color: #6b6e74;font-weight: 400;margin-left: 5px;top: 4px;position: relative;}
+.prevbar{float: left;font-size: 15px;line-height: 20px;color: #6b6e74;text-align: left;margin: 0 0 10px;text-align: center;width: 20%;margin-left: 3px;margin-top: 10px;}
+.revbarnone{display: none;}
+.ulbar{width: 20%;float: left;margin: 0;margin-left: -35px;}
+.libar{list-style: none;}
+.libar{float: left;width: 19%;height: 8px;border-right: 1px solid #b5b7b8;background: #22cb7a;}
+.ulbardiv{float: left;width: 20%;height: 8px;}
+.libaritem{float: left;width: 20%;height: 8px;border-right: 1px solid #b5b7b8;background: #22cb7a;}
+.secimgrev{margin-top: 20px;width: 100%;float: left;text-align: center;padding: 0 5%;}
+.txtrev{float: left;width: 60%;}
+.prevnam{width: 100%;text-align: left;}
+.spname{float: left;text-align: left;margin-left: 5px;}
+.spday{float: left;}
+.starts{color: #22cb7a;float: left;}
+.rgcont{width: 25%;margin-right: 10%;float: right;padding-top: 5%;}
+.env{float: left;width: 100%;border-radius: 10px;background: #17242c;border: 1px solid #c6e9e7;padding: 17px;-webkit-box-shadow: 1px 1px 12px 1px #d2d8db;box-shadow: 1px 1px 12px 1px #d2d8db;margin-bottom: 40px;}
+.rgright{width: 100%;}
+.txtfor{float: left;width: 100%;font-size: 18px;line-height: 28px;color: #bec3bd;font-weight: bold;text-align: center;}
+.pimgcenter{text-align: center;}
+.txtsec{float: left;width: 100%;font-size: 10px;color: #bec3bd;font-weight: 700;text-align: center;margin-top: 35px;}
+footer{float: left;width: 80%;border-top: 3px solid #d1b16e;background: #17242c;padding: 35px 10% 35px 10%;color: #FFF;}
+footer a{color: #FFF;}
+.logofooter{width: 300px;height: auto;}
+.pter{font-size: 16px; color:#ded7d2;}
+.prep{font-size: 14px;}
+.pitemfo{color: #ded7d2;font-size: 12px;}
+.asterisc{font-weight: bolder;margin-top: -5px;text-align: right;padding-right: 10px;color: rgb(175, 0, 107);}
+.txtgetp{font-size: 32px;}
+.txtstayp{float: left;}
+.txtanep{font-size: 32px;}
+.txtfinp{float: left;border-top: 5px solid #00c366;padding-top: 30px;text-align: center;}
+.pdisc{width: 100%;font-size: 10px;line-height: 15px;text-align: justify;}
+.terms{text-align: center;}
+
+/******************************/
+/******************************/
+/******************************/
+
+/*POPUPs*/
+.popupContent p{overflow: auto;height: 200px;}
+.popupContent p{text-align: justify;}
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+#popupBody p, #popupBody h2{
+  color: black;
+}
+.overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody{
+    width: 50%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 20% auto;
+}
+#cerrar{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+
+.center{text-align: center;}
+.pord{font-weight: bold;color: #406cab;font-size: 2.5rem;}
+.leftimg{width: 100%;text-align: center;margin-top: 50px;}
+.leftimg img{width: 200px;}
+
+.checkout{width: 80%;padding-left: 10%;padding-right: 10%;float: left;padding-top: 0;padding-bottom: 0;}
+.checkout .left{width: 46%;float: left;padding: 0 1%;text-align: justify;margin: 10px 1%;}
+.checkout .left img{}
+.checkout .right{width: 50%;float: right;background-color: #1376ae;border-radius: 40px;margin-top: 10px;color: #FFF;font-weight: bold;}
+
+.checkout .right p{}
+
+.offerimgtext{width: 100%;float: left;}
+.offertext{width: 60%;float: right;text-align: left;}
+.offer img{width: 20%;float: left;padding: 10px 45px;}
+
+.pinter{float: left;text-align: center;width: 100%;}
+
+.linewhite{float: left;width: 90%;color: white;height: 1px;background-color: white;margin: 0 5%;}
+
+.pdis{margin-bottom: .5rem;line-height: 1.2;font-size: 1.75rem;color: orange;font-weight: bold;}
+.plim{text-transform: uppercase;font-size: 1.8em;}
+
+
+.sectxt{width: 71%;text-align: center;float: left;padding: 0 19%;padding-left: 112px;}
+.sectxt p{float: left;margin: 0 10px;}
+.helps{float: right;width: 95%;text-align: left;font-size: 1.5em;margin:10px 0;}
+.helps span{color: orange;}
+.psati{float: left;text-align: center;width: 100%;}
+.btnrush{width: 70%;float: left;text-transform: uppercase;background-color: orange;margin: 0 15%;border-radius: 10px;padding: 15px 0;}
+.btnrush{color: #FFF;font-weight: bold;}
+
+.lock{width: 15px;}
+.psafe{float: left;text-align: center;width: 100%;font-size: 1.75rem;}
+.secimgs{text-align: center;float: left;padding: 0 20%;}
+.secimgs img{width: 100%;float: left;margin-right: 5%;margin-left: 5%;}
+
+.popupform{color: #000;}
+.lbl {color:#000;}
+.blocklf{float: left;}
+.blockrg{float: right;}
+
+.lblnom{width: 11%;float: left;padding-top: 7px;}
+.boxnom{float: left;width: 197px;}
+.lblape{width: 11%;float: left;padding-top: 7px;}
+.boxape{float: left;width: 197px;}
+.lblema{width: 11%;float: left;padding-top: 7px;}
+.boxema{float: left;width: 197px;}
+.lblpho{width: 11%;float: left;padding-top: 7px;}
+.boxpho{float: left;width: 197px;}
+.lblstr{width: 11%;float: left;}
+.boxstr{float: left;width: 197px;}
+.lblcit{width: 11%;float: left;padding-top: 7px;}
+.boxcit{float: left;width: 197px;}
+.lblzip{float: left;padding-top: 7px;}
+.boxzip{float: left;width: 127px;}
+.lblsta{float: left;padding-top: 7px;}
+.boxsta{float: left;width: 159px;}
+.btnrus{margin-top: 20px;}
+.imgprod2{width: 100%;}
+
+.offer img{width: 80%;}
